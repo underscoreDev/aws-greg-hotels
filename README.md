@@ -3,6 +3,7 @@
 Deploy Static Website on AWS
 
 In this project, I deployed a static website to AWS using S3, CloudFront, and IAM.
+The website has been configured with IAM and S3-buckets policies, and Securely delivered its content with low latency and high transfer speeds using CloudFront.
 
 The website can be accessed via the following links:
 
